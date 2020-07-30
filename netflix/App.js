@@ -1,9 +1,10 @@
+/* eslint-disable react-native/no-inline-styles */
+/* eslint-disable no-shadow */
 import React, {Component} from 'react';
 import {
   Text,
   View,
   SafeAreaView,
-  Image,
   StyleSheet,
   Dimensions,
   ScrollView,
